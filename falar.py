@@ -2,7 +2,7 @@ import asyncio
 import edge_tts
 
 # O texto que você quer narrar
-TEXTO = "As imagens de uma câmara de segurança revelaram o momento exato de um dos crimes mais chocantes do país."
+TEXTO = "olá eu sou o antonioneural e sou boiolão"
 # Voz padrão para documentários/crime (pode testar pt-BR-FranciscaNeural se quiser voz feminina)
 VOICE = "pt-BR-AntonioNeural" 
 OUTPUT_FILE = "narracao.mp3"
